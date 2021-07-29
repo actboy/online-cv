@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Jia Lin
-    tagline: Full Stack Developer
+    name: 贾淋
+    tagline: 人工智能算法工程师
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,27 +28,27 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: Chinese
-        level: Native
+      - idiom: 中文
+        level: 母语
 
-      - idiom: English
-        level: Professional
+      - idiom: 英文
+        level: 大学英语6级
 
 #       - idiom: Spanish
 #         level: Professional
 
     interests:
-      - item: reading
+      - item: 阅读
         link:
 
-      - item: Snowboarding
+      - item: 跑步
         link:
 
 #       - item: Cooking
 #         link:
 
 career-profile:
-    title: Career Profile
+    title: 履历
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -118,7 +118,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: 项目
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
