@@ -171,13 +171,13 @@ skills:
 
     toolset:
       - name: Python
-        level: 98%
+        level: 90%
 
       - name: SQL
-        level: 98%
+        level: 95%
 
       - name: 机器学习 & 深度学习
-        level: 98%
+        level: 85%
 
 #       - name: HTML5 & CSS
 #         level: 95%
