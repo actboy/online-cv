@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -27,7 +27,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    语言:
+    languages:
       - idiom: 中文
         level: 母语
 
@@ -37,7 +37,7 @@ sidebar:
 #       - idiom: Spanish
 #         level: Professional
 
-    兴趣:
+    interests:
       - item: 阅读
         link:
 
