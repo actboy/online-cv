@@ -84,39 +84,34 @@ experiences:
       time: 2018 - Present
       company: 北明软件有限公司
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        在人工智能研发中心担任高级算法工程师，负责智能客服产品规划、设计、研发及实施工作，核心工作内容为跟踪自然语言处理算法前沿技术，复现自然语言处理学术论文中先进模型并应用到智能客服产品中解决实际问题，根据工作中的创新点申请软著、专利以及产品认证，把智能客服产品应用在电子政务中。
+
+        产品业务层：市民使用口语向虚拟客服机器人咨询民生政务问题，问答引擎通过语音处理、自然语言处理、信息检索等逻辑后精确回复标准话语供市民参考，产品同时提供WebIm、电话坐席、工单处理等常规客服工作模块。
+
+        产品技术层：包括算法逻辑和业务逻辑2大部分，算法实现主要基于 python + c/cpp + scikit-learn + tensorflow/pytorch 实现了深度学习模型 LSTM + CRF 分词、word2vec 词向量、transformer 编码的迁移学习；业务逻辑主要基于 java + js + vue + spring boot + mysql + redis + es 实现了前后端分离、微服务、高并发、高可靠的业务处理逻辑。
+
+        产品应用：广东省民生客服知识系统、舞钢市人工智能平台、武汉市江夏区市民之家、东莞营商助企平台等多个电子政务项目集成了本产品。
+
+        研发人力：算法工程师3人、后端工程师2人、前端工程师1人。
     - role: 产品经理
       time: 2016 - 2018
       company: 志鸿物流有限公司
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        1. 收集需求；
+        2. 梳理业务流程；
+        3. 指导原型设计；
+        4. 设计数据库概念模型和逻辑模型、划分系统功能模块、拟定开发计划；
+        5. 指导产品测试验收；
+        6. 指导运营人员使用产品；
+        7. 业务数据可视化开发。
     - role: 数据分析师
       time: 2014 - 2016
       company: 瑞卡租车集团有限公司
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        1. 利用cognos开发BI报表；
+        2. 使用selenium模拟用户收集竞争对手价格；
+        3. 使用saprk MLlib 建立动态定价模型；
+        4. 车辆分配算法研究与实现。
 # projects:
 #     title: 项目
 #     intro: >
