@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: 贾淋
     tagline: 人工智能算法工程师
-    avatar: profile-jl.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: id-photo-jl.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: actboy@163.com
@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /assets/jl-cv.pdf  # http://www.africau.edu/images/default/sample.pdf
+    pdf: https://raw.githubusercontent.com/actboy/online-cv/97729c8a8eb066ae5ec4a2e8b62478b8f934db8f/assets/jl-cv.pdf # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: 中文
