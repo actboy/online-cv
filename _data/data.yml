@@ -48,14 +48,11 @@ sidebar:
 #         link:
 
 career-profile:
-    title: 职业概述
+    title: 个人优势
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      1. 能够把学术前沿研究应用于工业实践，如分布式语义表示模型紧跟学术前沿研究；
+      2. 执行力强，如严格按照计划完成项目任务；
+      3. 抗压能力好，如在时间紧、任务重的情况下通过赶工形式推进进度。
 education:
     - degree: 计算机软件与理论硕士
       university: 天津工业大学
